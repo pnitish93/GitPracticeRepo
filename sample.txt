@@ -1,2 +1,4 @@
 This is a sample file to begin practicing Git.
 Added a new line here.
+
+Also making some changes here.
