@@ -3,4 +3,4 @@ Added a new line here.
 
 Also making some changes here.
 
-Addition for git-feature-2 branch.
+Addition for git-feature-2 branch. Added one more additional sentence to the additional line.
