@@ -1,5 +1,5 @@
 This contains some additional details here.
-This is a file for testing. From branch-gh
+This is a file for testing. Extra content from branch-gh & test-Branch
 
 Making some changes for mergining in GitHub.
 
