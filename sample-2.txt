@@ -5,4 +5,4 @@ Making some changes for mergining in GitHub.
 
 Adding a line in sample-2.txt
 
-Added a line from test-branch
+Added a line from test-branch. Added this line in test-branch.
