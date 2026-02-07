@@ -1,4 +1,4 @@
-This contains some additional details here.
+This contains some additional details here. Added in notepad++ in the main branch.
 This is a file for testing. Extra content from branch-gh & test-Branch
 
 Making some changes for mergining in GitHub.
