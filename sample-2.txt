@@ -1,7 +1,7 @@
 This contains some additional details here. Added in notepad++ in the main branch.
 This is a file for testing. Extra content from branch-gh & test-Branch
 
-Making some changes for mergining in GitHub. Modifying this 3rd line in main branch.
+Making some changes for mergining in GitHub. Modifying this 3rd line in main branch and in the branch-gh branch.
 
 Adding a line in sample-2.txt
 
