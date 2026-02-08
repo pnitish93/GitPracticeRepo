@@ -8,3 +8,5 @@ Addition for git-feature-2 branch. Added one more additional sentence to the add
 Additional line for rebase testing.
 
 Something from main.
+
+New line through main branch.
