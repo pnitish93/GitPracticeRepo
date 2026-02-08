@@ -6,3 +6,4 @@ Also making some changes here.
 Addition for git-feature-2 branch. Added one more additional sentence to the additional line.
 
 Additional line for rebase testing.
+New line content from test-branch.
